@@ -1,0 +1,55 @@
+body{
+    background-color: burlywood;
+    font-size: larger;
+    text-align: center;
+}
+.firstday{
+    text-align: center;
+    text-size-adjust: 40px;
+}
+.secday{
+    text-align: center;
+    text-size-adjust: 40px;
+}
+.thirdday{
+    text-align: center;
+    text-size-adjust: 40px;
+}
+.fourth.day{
+    text-align: center;
+    text-size-adjust: 40px;
+}
+.fifth.day{
+    text-align: center;
+    text-size-adjust: 40px;
+}
+.timetable{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.form{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}.css{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+align-items: baseline;
+
+}
+
+    
+
+    

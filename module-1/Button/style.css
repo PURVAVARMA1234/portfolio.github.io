@@ -1,0 +1,113 @@
+.container{
+  height: 300px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  background-color: pink;
+  justify-content: space-evenly;
+  background-size: cover;
+  
+  border-radius: 0px;
+  border:10px black solid;    
+
+
+}  
+.container:hover{
+   border-radius:40px;
+  background-image: linear-gradient(45deg,red,blue,green
+  ,yellow);
+ 
+}
+
+.h1{
+text-align: center;
+}
+.container1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.container2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.block1{
+  background-color: aliceblue;
+  height: 50px;
+  width:90px ;
+  text-align: center;
+  border-radius: 15px;
+  
+}
+.block2{
+  background-color: aliceblue;
+  height: 50px;
+  width:90px ;
+  text-align: center;
+  border-radius: 15px;
+  
+}
+.block3{
+  background-color: aliceblue;
+  height: 50px;
+  width:90px ;
+  text-align: center;
+  border-radius: 15px;
+
+}
+.block4{
+  background-color: aliceblue;
+  height: 50px;
+  width:90px ;
+  text-align: center;
+  border-radius: 15px;
+
+}
+.block5{
+  background-color: aliceblue;
+  height: 50px;
+  width:90px ;
+  text-align: center;
+  border-radius: 15px;
+
+}
+.block6{
+  background-color: aliceblue;
+  height: 50px;
+  width:90px ;
+  text-align: center;
+  border-radius: 15px;
+
+}
+.block1:hover{
+  background-image: linear-gradient(to right,pink,skyblue,lightgreen
+  ,yellow ); 
+}
+.block2:hover{
+
+  font-size: 13px;
+  border-radius:0px;
+
+}
+.block5:hover{
+  background-color: purple;
+  text-decoration: line-through;
+}
+.block4:hover{
+  
+  background: scroll;
+   font-style: italic;
+}
+.block3:hover{
+  text-transform: uppercase;
+  background-color: pink;
+  
+  
+}
+.block6:hover{
+  text-align: end;
+  text-decoration: underline red;
+}
