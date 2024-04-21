@@ -1,0 +1,125 @@
+
+html{
+   background-color: darkseagreen;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    font-size: large;
+    
+}
+#underline{
+    color: blue;
+}
+.point{
+    color: blue;
+}
+
+
+#head{
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration-line:underline;
+}
+#sub{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    }
+ #text{
+        font-weight: bold;
+        word-spacing: 2px;
+        margin-left: 20px;
+        font-size: 25px;
+    }
+#img1{
+    height: 407px;
+    width: 677px;
+    margin-left: 340px;
+}
+#kerf{
+    height: 407px;
+    width: 677px;
+    margin-left: 340px;
+}
+.flex1{
+    display: flex;
+    flex-direction: row;
+    height: 380px;
+    width: 50px;
+    margin-left: 20px;
+}
+.flex2{
+    display: flex;
+    flex-direction: row;
+    height: 380px;
+    width: 50px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.flex3{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 10px;
+    /* padding: 10px; */
+}
+.flex4{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 10px;
+    margin-left: 100px;
+    padding: 10px;
+    height: 407px;
+    width: 677px;
+    margin-left: 340px;
+}
+
+.flex5{
+    /* display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 10px;
+    margin-left: 100px;
+    padding: 10px;
+    height: 407px;
+    width: 677px;
+    margin-left: 340px; */
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 10px;
+    margin-left: 100px;
+    padding: 10px;
+    height: 407px;
+    width: 677px;
+    margin-left: 340px;
+}
+
+
+.flex6{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 10px;
+    margin-left: 100px;
+    padding: 10px;
+}
+
+#footer{
+    text-align: center;
+    font: size 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:red ;
+    text-shadow: 1px 1px black;
+}
+#copyright{
+    color: silver;
+}
+
+.second{
+    font-size: large;
+}
